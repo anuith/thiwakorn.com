@@ -1,0 +1,21 @@
+baseURL = "http://thiwakorn.com/"
+languageCode = "th-th"
+title = "Thiwakorn.com"
+theme = "LoveIt"
+
+[params]
+title = "Thiwakorn.com"
+description = "Maybe something,... maybe."
+
+[params.header.title]
+  name = "Thiwakorn.com"
+
+[params.footer]
+  since = 2023
+
+[params.home.profile]
+  subtitle = "Something is going on here..."
+
+[params.social]
+  Facebook = "https://facebook.com/anuith"
+  Twitter = "https://twitter.com/anuith"
